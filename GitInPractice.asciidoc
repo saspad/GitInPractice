@@ -1,2 +1,2 @@
 This is a test file.
-Make a modification.
+Make modifications.
