@@ -2,6 +2,7 @@ This is a test file.
 Make modifications.
 Some more changes.
 Fix it.
+conflict in master............
 Added a line in chapter-two Branch.
 extra line.
 
