@@ -1,6 +1,7 @@
 This is a test file.
 Make modifications.
 Some more changes.
+Add a conflict in tmp branch.
 Fix it.
 Added a line in chapter-two Branch.
 extra line.
